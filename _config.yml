@@ -1,1 +1,4 @@
-theme: minima
+theme: minimal
+title: title
+author: author
+description: description
